@@ -13,7 +13,7 @@ if uploaded_file is not None:
     
     try:
         prediction = predict("temp_file.jpg")
-        st.image("temp_file.jpg", caption="Uploaded Image", use_column_width=True)
+        st.image("temp_file.jpg", caption="Uploaded Image", use_container_width=True)
         st.success(f"Prediction: {prediction}")
     except Exception as e:
         st.error(f"Failed to process the image. Error: {e}")
