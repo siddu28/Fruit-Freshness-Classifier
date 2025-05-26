@@ -50,7 +50,7 @@ Achieved ~98% accuracy on the validation set! 🎯
 ![Image](https://github.com/user-attachments/assets/5cb20f82-5758-4ed9-87b0-70f0a3592790)
 
 
-# Streamlit Demo - https://fruit-freshness-classifier.streamlit.app/
+- Streamlit Demo - https://fruit-freshness-classifier.streamlit.app/
 
 
 ### Set Up
